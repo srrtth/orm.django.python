@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DElete form </title>
+</head>
+
+<form method="POST">
+    {% csrf_token %}
+    <h1> Delete Employee Form</h1>
+    enter employee id <input type="text" name="emp_pk">
+    <input type="submit" value="Delete employee">
+</form>
+
+</body>
+</html>
