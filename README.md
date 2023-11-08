@@ -1,6 +1,6 @@
 # Employee Management System (Django ORM-based)
 
-![Employee Management System](https://example.com/employee-management.png)
+![Employee Management System]
 
 ## Introduction
 
